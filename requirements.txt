@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-openai
+streamlit
+openai
+tiktoken
+psycopg2
+pgvector
+langchain-community
+langchain-core
+docx2txt
